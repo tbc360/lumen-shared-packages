@@ -1,0 +1,22 @@
+{
+ "name": "tbcconnect/ms-shared-packages",
+  "type": "package",
+ "description": "tbcconnect private repository",
+  "license": "private",
+  "authors": [
+    {
+      "name": "Lasha Shonia",
+      "email": "l.shonia@tbcconnect.ge",
+      "homepage": "https://tbcconnect.ge"
+    }
+  ],
+  "require": {
+   "php": ">=7.0.0",
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Tbcconnect\\":""
+    }
+  }
+}
