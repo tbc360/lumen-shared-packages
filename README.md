@@ -1,5 +1,4 @@
-# lumen-shared-packages
-Shared packs for laravel / lumen based applications
+# Shared packages for laravel / lumen based applications
 
 
 #Usage instruction 
