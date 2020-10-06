@@ -11,7 +11,7 @@ To use this package which provides central point of communication scheme between
 --- 
 Manualy update primary repo's composer.json file by adding following private repository:
 
-
+Example composer.json : https://gist.github.com/LShoniaTbcConnect/2c1a2a7125ab8d6e4df8040df230e388
 
 ``````
 ...
